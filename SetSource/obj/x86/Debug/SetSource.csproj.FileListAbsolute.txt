@@ -1,0 +1,11 @@
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\bin\Debug\SetSource.exe
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\bin\Debug\SetSource.pdb
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.exe
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.pdb
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.MainForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\bin\Debug\BLL_DAL.dll
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\bin\Debug\BLL_DAL.pdb
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2010\Projects\SetSource\SetSource\obj\x86\Debug\SetSource.SecondForm.resources
